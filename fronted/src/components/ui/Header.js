@@ -17,7 +17,7 @@ const App = () => {
           <p>/</p>
           <button className="btn_opcion">CONTÁCTANOS</button>
           <p>/</p>
-          <Link to="/auth/login">
+          <Link to="">
             <button className="btn_opcion activate">CHATBOT</button>
           </Link>
         </ul>
